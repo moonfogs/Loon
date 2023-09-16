@@ -1,0 +1,12 @@
+#!name = 哔哩哔哩UposRedirect
+#!desc = 哔哩哔哩Upos服务器替换
+#!author = moonfog
+#!homepage = https://github.com/moonfogs/Loon
+#!icon = https://www.bilibili.com/favicon.ico
+
+[Rewrite]
+^https:\/\/upos-hz-mirrorakam\.akamaized\.net 307 https://upos-sz-mirrorcos.bilivideo.com
+^https:\/\/upos-hz-mirrorakam\.akamaized\.net 307 https://upos-sz-mirrorcosb.bilivideo.com
+
+[Mitm]
+hostname = upos-hz-mirrorakam.akamaized.net
