@@ -6,7 +6,6 @@
 
 [Rewrite]
 ^https:\/\/upos-hz-mirrorakam\.akamaized\.net 307 https://upos-sz-mirrorcos.bilivideo.com
-^https:\/\/upos-hz-mirrorakam\.akamaized\.net 307 https://upos-sz-mirrorcosb.bilivideo.com
 
 [Mitm]
 hostname = upos-hz-mirrorakam.akamaized.net
