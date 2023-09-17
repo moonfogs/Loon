@@ -5,7 +5,7 @@
 #!icon = https://www.bilibili.com/favicon.ico
 
 [Rewrite]
-^https:\/\/upos-hz-mirrorakam\.akamaized\.net 307 https://upos-sz-mirrorhw.bilivideo.com
+^https:\/\/upos-hz-mirrorakam\.akamaized\.net 307 https://upos-sz-mirrorcos.bilivideo.com
 
 [Mitm]
 hostname = upos-hz-mirrorakam.akamaized.net
